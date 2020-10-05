@@ -1,1 +1,1 @@
-# medium-time-api
+# Time API
